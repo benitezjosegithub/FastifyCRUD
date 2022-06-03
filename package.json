@@ -1,0 +1,21 @@
+{
+  "name": "crudfastify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "boom": "^7.3.0",
+    "fastify": "^3.29.0",
+    "fastify-swagger": "^5.2.0",
+    "mongoose": "^6.3.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
